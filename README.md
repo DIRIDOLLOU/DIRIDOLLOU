@@ -1,8 +1,6 @@
 # 👋 Bonjour, moi c'est Téo Diridollou !
 
 > 🎓 Étudiant-ingénieur en 4ᵉ année à l'**ESME Paris** (Majeure Intelligence Artificielle).  
-> 🎯 À la recherche d'un **stage en IA de 3 mois** à partir d'**octobre 2026**.
-
 ---
 
 ### 🚀 Projets phares
