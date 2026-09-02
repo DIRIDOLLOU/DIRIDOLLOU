@@ -25,5 +25,5 @@
 ---
 
 ### 📬 Me contacter
-* 💼 [LinkedIn](https://linkedin.com/in/ton-profil)
+* 💼 [LinkedIn](www.linkedin.com/in/téo-diridollou)
 * 📧 [teo.diridollou@esme.fr](mailto:teo.diridollou@esme.fr)
