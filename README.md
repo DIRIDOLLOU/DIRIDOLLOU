@@ -21,7 +21,3 @@
 | **Environnements** | Linux, MATLAB |
 
 ---
-
-### 📬 Me contacter
-* 💼 [LinkedIn](www.linkedin.com/in/téo-diridollou)
-* 📧 [teo.diridollou@esme.fr](mailto:teo.diridollou@esme.fr)
