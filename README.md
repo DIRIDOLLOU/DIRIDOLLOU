@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est Téo Diridollou !
+# Téo Diridollou !
 
 > 🎓 Étudiant-ingénieur en 4ᵉ année à l'**ESME Paris** (Majeure Intelligence Artificielle).  
 ---
