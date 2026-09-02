@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Bonjour, moi c'est Téo Diridollou !
 
-<!--
-**DIRIDOLLOU/DIRIDOLLOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎓 Étudiant-ingénieur en 4ᵉ année à l'**ESME Paris** (Majeure Intelligence Artificielle).  
+> 🎯 À la recherche d'un **stage en IA de 3 mois** à partir d'**octobre 2026**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projets phares
+
+* **AI Dyslexie** : Web-app d'accessibilité d'aide à la lecture basée sur l'extraction OCR et une mise en forme adaptée (`Python`, `FastAPI`).
+* **Predictive Eye-Controlled Virtual Keyboard** : Clavier virtuel contrôlé par le regard avec détection de clignements en temps réel et complétion NLP (`Python`, `OpenCV`, `dlib`, `NLP`).
+* **Early Depression Detection** : Pipeline complet de Machine Learning (EDA, feature engineering, classification) et intégration web (`Scikit-Learn`, `Python`).
+
+---
+
+### 🛠️ Stack & Compétences
+
+| Domaine | Outils & Technologies |
+| :--- | :--- |
+| **Intelligence Artificielle** | Machine Learning, Computer Vision (`OpenCV`), NLP, Scikit-Learn |
+| **Développement & Backend** | Python (`FastAPI`), JavaScript, C/C++, SQL, HTML/CSS |
+| **Automatisation & IA Ops** | n8n, Make, Copilot Studio |
+| **Environnements** | Linux, MATLAB |
+
+---
+
+### 📬 Me contacter
+* 💼 [LinkedIn](https://linkedin.com/in/ton-profil)
+* 📧 [teo.diridollou@esme.fr](mailto:teo.diridollou@esme.fr)
